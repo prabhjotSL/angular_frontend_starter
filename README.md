@@ -1,7 +1,11 @@
-# helfis
+# GodLabs
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
+
+## Install packages
+
+Run `bower install & npm install` to install the dependencies in package.json
 
 ## Build & development
 
